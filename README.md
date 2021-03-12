@@ -18,11 +18,16 @@ The goal of this project is to make a small video game based on the rules of Duc
 
 ***
 
-### MY_RUNNERR [in CSFML]
+### MY_RUNNER [in CSFML]
 
   Lien vers le projet --> [MY_RUNNER](./MY_RUNNER)
 
-MY_HUNTER is a video game.
+In this project, you are asked to make a small video game based on the rules of a finite Endless Running Game (like Mario Bross).The basic rules for the my_runner are as follows:<br>
+•the player is a character who runs in a map you took as parameter. <br>
+•enemies and obstacles must appear on the opposite side to the player position. <br>
+•the player can use the space bar to jump and avoid obstacles and enemies. <br>
+•as the player runs, a score, which will be displayed, will increase.<br>
+•when the player dies or finishes the map, the score is displayed inside the window<br>
 
 ***
 ### MY_SOKOBAN [in NCURSES]
