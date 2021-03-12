@@ -13,18 +13,30 @@ height="400"
 
 ### Welcome to Victor Palle's Portfolio !
 
-Here are some projects I made during my scolarity at Epitech.
-
-
 You can find me on [![LinkedIn][2.2]][2].
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpalle&theme=dark" />
 
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 [2]: https://www.linkedin.com/in/victor-palle-974266207/
+
+---
+
+## Satistics
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpalle&theme=dark" />
+
+---
+
+## Projects
+
+
+Here are some projects I made during my scolarity at Epitech.
+
+---
+
 
 
 ***
