@@ -22,7 +22,7 @@ The goal of this project is to make a small video game based on the rules of Duc
 
   Lien vers le projet --> [MY_RUNNER](./MY_RUNNER)
 
-In this project, you are asked to make a small video game based on the rules of a finite Endless Running Game (like Mario Bross).The basic rules for the my_runner are as follows:<br>
+In this project, you are asked to make a small video game based on the rules of a finite Endless Running Game (like Mario Bross).The basic rules for the my_runner are as follows:<br><br>
 •the player is a character who runs in a map you took as parameter. <br>
 •enemies and obstacles must appear on the opposite side to the player position. <br>
 •the player can use the space bar to jump and avoid obstacles and enemies. <br>
@@ -34,7 +34,9 @@ In this project, you are asked to make a small video game based on the rules of 
 
   Lien vers le projet --> [MY_SOKOBAN](./MY_SOKOBAN)
 
-MY_HUNTER is a video game.
+The goal of this project is to develop a copy of the famous sokoban game in terminal mode, using the ncurses library.If all boxes are on storage locations, the player wins and the program must return 0.
+
+>Sokoban (warehouse keeper in Japanese) is a type of transport puzzle, in whichthe player pushes boxes or crates around in a warehouse, >trying to get them tostorage locations.
 
 ***
 
