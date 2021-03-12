@@ -1,3 +1,5 @@
+<link href="../style.css" rel="stylesheet">
+
 # MY_HUNTER
 
 The goal of this project is to make a small video game based on the rules of Duck Hunt.The basic rules for the my_hunter are as follows:
