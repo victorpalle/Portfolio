@@ -22,11 +22,13 @@ make
 
 <!-- ![Optional Text](re/my_hunter.png) -->
 
+<kbd>
 <img
 src="re/my_hunter.png"
 raw=true
 alt="screenshoot"
 width="700"
-border: 100 px solid/>
+/>
+</kbd>
 
 df
