@@ -1,5 +1,7 @@
 # MY_HUNTER
 
-'''./my_hunter'''
+'''bash
+./my_hunter
+'''
 
 ![Optional Text](re/my_hunter.png)
