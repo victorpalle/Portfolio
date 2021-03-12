@@ -22,13 +22,13 @@ make
 
 <!-- ![Optional Text](re/my_hunter.png) -->
 
-<kbd>
+<table><tr><td>
 <img
 src="re/my_hunter.png"
 raw=true
 alt="screenshoot"
 width="700"
 />
-</kbd>
+</td></tr></table>
 
 df
