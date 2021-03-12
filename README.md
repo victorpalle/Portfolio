@@ -1,6 +1,13 @@
 # PORTFOLIO
 
-![Alt Text](welcome.gif)
+<kbd>
+<img
+src="welcome.gif"
+raw=true
+alt="screenshoot"
+width="1000"
+/>
+</kbd>
 
 
 Welcome to Victor Palle's Portfolio !
