@@ -27,7 +27,6 @@ src="re/my_hunter.png"
 raw=true
 alt="screenshoot"
 width="700"
-border: solid
-border-radius: 100%/>
+border: solid/>
 
 df
