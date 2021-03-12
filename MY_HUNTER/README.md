@@ -25,3 +25,9 @@ make
 <img class="screenshot"
      src="re/my_hunter.png"
      alt="screenshoot">
+
+<style>
+    img {
+        width: 10px
+    }
+</style>
