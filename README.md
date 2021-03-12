@@ -1,4 +1,4 @@
-# Portfolio
+# PORTFOLIO
 
 Welcome to Victor Palle's Portfolio !
 
@@ -10,7 +10,11 @@ Here are some projects I made during my scolarity at Epitech.
 
   Lien vers le projet --> [MY_HUNTER](./MY_HUNTER)
 
-MY_HUNTER is a video game.
+The goal of this project is to make a small video game based on the rules of Duck Hunt.The basic rules for the my_hunter are as follows:
+
+  •the player is a hunter who shoots ducks.
+  •ducks must appear on the screen and move from one side to another.
+  •the player can click on them to shoot them
 
 ***
 
