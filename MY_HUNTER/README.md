@@ -1,4 +1,4 @@
-<link href="../style.css" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
 
 # MY_HUNTER
 
