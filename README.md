@@ -18,13 +18,13 @@ Here are some projects I made during my scolarity at Epitech.
 
 You can find me on [![LinkedIn][2.2]][2].
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 [2]: https://www.linkedin.com/in/victor-palle-974266207/
-
-<br>
 
 
 ***
