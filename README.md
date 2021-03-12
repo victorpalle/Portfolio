@@ -24,13 +24,13 @@ You can find me on [![LinkedIn][2.2]][2].
 
 ---
 
-# Satistics
+# Satistics <img src="graph.gif" width="30px">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpalle&theme=tokyonight&show_icons=true&border_radius=30%&layout=compact" width="700px" height="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpalle&theme=tokyonight&show_icons=true&border_radius=30%&layout=compact" width="700px" height="200"/>
 
 ---
 
-# Projects
+# Projects <img src="task.gif" width="30px">
 
 
 Here are some projects I made during my scolarity at Epitech.
