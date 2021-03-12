@@ -6,7 +6,7 @@ src="welcome.gif"
 raw=true
 alt="screenshoot"
 width="500"
-height="200"
+height="400"
 />
 </kbd>
 
