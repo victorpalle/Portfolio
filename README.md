@@ -1,5 +1,9 @@
 # Portfolio
 
-Welcome to Victor Palle Portfolio !
+Welcome to Victor Palle's Portfolio !
 
-Here is some projects I made during my scolarity at Epitech.
+Here are some projects I made during my scolarity at Epitech.
+
+=MY_HUNTER
+
+[MY_HUNTER](./MY_HUNTER)
