@@ -26,4 +26,5 @@ make
      src="re/my_hunter.png"
      raw=true
      alt="screenshoot"
-     style="border-radius: 20%;"/>
+     style="margin-right: 100px;"
+/>
