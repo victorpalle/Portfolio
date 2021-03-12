@@ -26,11 +26,12 @@ You can find me on [![LinkedIn][2.2]][2].
 
 <br>
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ***
 
 ### MY_HUNTER [in CSFML]
+
+![](https://img.shields.io/badge/Linux-CSFML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
   Lien vers le projet --> [MY_HUNTER](./MY_HUNTER)
 
@@ -44,6 +45,8 @@ The goal of this project is to make a small video game based on the rules of Duc
 
 ### MY_RUNNER [in CSFML]
 
+![](https://img.shields.io/badge/Linux-CSFML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
   Lien vers le projet --> [MY_RUNNER](./MY_RUNNER)
 
 In this project, you are asked to make a small video game based on the rules of a finite Endless Running Game (like Mario Bross).The basic rules for the my_runner are as follows:<br><br>
@@ -56,6 +59,8 @@ In this project, you are asked to make a small video game based on the rules of 
 ***
 ### MY_SOKOBAN [in NCURSES]
 
+![](https://img.shields.io/badge/Linux-NCURSES-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
   Lien vers le projet --> [MY_SOKOBAN](./MY_SOKOBAN)
 
 The goal of this project is to develop a copy of the famous sokoban game in terminal mode, using the ncurses library. If all boxes are on storage locations, the player wins and the program must return 0.
@@ -66,6 +71,8 @@ The goal of this project is to develop a copy of the famous sokoban game in term
 
 ### NAVY [in C]
 
+![](https://img.shields.io/badge/Linux-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
   Lien vers le projet --> [NAVY](./NAVY)
 
   The goal of this project is to code a terminal version of the very famous "Battleship game". The two players are ONLY allowed to comunicate using thesignals SIGUSER1 and SIGUSER2.The map size is 8x8. On each turn, you must display your positions, and then your enemy’s positions. At the end of the game (when all the ships of a player have been hit), you must display whether “I won” (and return 0) or “Enemy won” (and return 1).
@@ -74,6 +81,8 @@ The goal of this project is to develop a copy of the famous sokoban game in term
 ***
 
 ### POPEYE [with DOCKER]
+
+![](https://img.shields.io/badge/Linux-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
   Lien vers le projet --> [POPEYE](./POPEYE)
 
