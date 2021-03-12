@@ -1,4 +1,4 @@
-<link href="../style.css" rel="stylesheet">
+<!-- <link href="../style.css" rel="stylesheet"> -->
 
 # MY_HUNTER
 
@@ -22,8 +22,10 @@ make
 
 <!-- ![Optional Text](re/my_hunter.png) -->
 
-<img class="screenshot"
-     src="re/my_hunter.png"
-     raw=true
-     alt="screenshoot"
-     style="width: 100px;">
+<img
+src="re/my_hunter.png"
+raw=true
+alt="screenshoot"
+style="width: 100px;">
+
+df
