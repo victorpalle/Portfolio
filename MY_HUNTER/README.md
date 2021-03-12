@@ -13,7 +13,7 @@ To compile use : <br>
 ```python
 make
 ```
-<br>
+<br>and then<br>
 
 ```python
 ./my_hunter
@@ -26,6 +26,6 @@ make
 src="re/my_hunter.png"
 raw=true
 alt="screenshoot"
-style="width: 100px;">
+width="700"/>
 
 df
