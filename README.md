@@ -9,9 +9,9 @@ width="500"
 height="400"
 />
 </kbd>
+<br><br>
 
-
-Welcome to Victor Palle's Portfolio !
+### Welcome to Victor Palle's Portfolio !
 
 Here are some projects I made during my scolarity at Epitech.
 
