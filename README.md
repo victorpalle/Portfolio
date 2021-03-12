@@ -26,7 +26,7 @@ You can find me on [![LinkedIn][2.2]][2].
 
 ## Satistics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpalle&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpalle&theme=tokyonight&show_icons=true"/>
 
 ---
 
@@ -35,8 +35,6 @@ You can find me on [![LinkedIn][2.2]][2].
 
 Here are some projects I made during my scolarity at Epitech.
 
-
----
 
 ### MY_HUNTER [in CSFML]
 
