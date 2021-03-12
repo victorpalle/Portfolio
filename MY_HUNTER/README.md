@@ -1,7 +1,7 @@
 # MY_HUNTER
 
-'''bash
+```python
 ./my_hunter
-'''
+```
 
 ![Optional Text](re/my_hunter.png)
