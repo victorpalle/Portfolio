@@ -26,8 +26,7 @@ You can find me on [![LinkedIn][2.2]][2].
 
 # Satistics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpalle&theme=tokyonight&show_icons=true&border_radius=30%&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=victorpalle">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpalle&theme=tokyonight&show_icons=true&border_radius=30%&layout=compact&width=300"/>
 
 ---
 
