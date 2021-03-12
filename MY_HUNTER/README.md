@@ -26,6 +26,7 @@ make
 src="re/my_hunter.png"
 raw=true
 alt="screenshoot"
-width="700"/>
+width="700"
+border-radius="100"/>
 
 df
