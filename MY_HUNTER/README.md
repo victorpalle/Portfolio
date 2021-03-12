@@ -1,4 +1,4 @@
-<!-- <link href="../style.css" rel="stylesheet"> -->
+<link href="../style.css" rel="stylesheet">
 
 # MY_HUNTER
 
@@ -20,15 +20,13 @@ make
 ```
 ### Screenshot
 
-<!-- ![Optional Text](re/my_hunter.png) -->
+![Optional Text](re/my_hunter.png#thumbnail)
 
-<table><tr><td>
+<!-- <kbd>
 <img
 src="re/my_hunter.png"
 raw=true
 alt="screenshoot"
 width="700"
 />
-</td></tr></table>
-
-df
+</kbd> -->
