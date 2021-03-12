@@ -34,9 +34,9 @@ In this project, you are asked to make a small video game based on the rules of 
 
   Lien vers le projet --> [MY_SOKOBAN](./MY_SOKOBAN)
 
-The goal of this project is to develop a copy of the famous sokoban game in terminal mode, using the ncurses library.If all boxes are on storage locations, the player wins and the program must return 0.
+The goal of this project is to develop a copy of the famous sokoban game in terminal mode, using the ncurses library. If all boxes are on storage locations, the player wins and the program must return 0.
 
->Sokoban (warehouse keeper in Japanese) is a type of transport puzzle, in whichthe player pushes boxes or crates around in a warehouse, >trying to get them tostorage locations.
+>Sokoban (warehouse keeper in Japanese) is a type of transport puzzle, in which the player pushes boxes or crates around in a warehouse, trying to get them tostorage locations.
 
 ***
 
@@ -44,7 +44,8 @@ The goal of this project is to develop a copy of the famous sokoban game in term
 
   Lien vers le projet --> [NAVY](./NAVY)
 
-MY_HUNTER is a video game.
+  The goal of this project is to code a terminal version of the very famous "Battleship game". The two players are ONLY allowed to comunicate using thesignals SIGUSER1 and SIGUSER2.The map size is 8x8. On each turn, you must display your positions, and then your enemy’s positions. At the end of the game (when all the ships of a player have been hit), you must display whether “I won” (and return 0) or “Enemy won” (and return 1).
+
 
 ***
 
@@ -52,6 +53,6 @@ MY_HUNTER is a video game.
 
   Lien vers le projet --> [POPEYE](./POPEYE)
 
-MY_HUNTER is a video game.
+The goal of this project is to containerize and define the deployment of a simple web poll application using docker.
 
 ***
