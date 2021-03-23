@@ -1,0 +1,66 @@
+.contact {
+    background-color: #1749d1;
+    border: solid black 2px;
+    border-radius: 35%;
+    color: white;
+    padding: 40px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Gill Sans';
+    font-size: 40px;
+    box-shadow: 10px 100px 10px rgba(0, 0, 0, 0.2);
+    transition-duration: 0.4s;
+    cursor: pointer;
+    height: 18px;
+    width: 18px;
+    margin-left: 500px;
+}
+
+.linkedin {
+    size: 10px;
+    height: 150px;
+    margin-left: 500px;
+    margin-bottom: 70px;
+    box-shadow: 10px 100px 10px rgba(0, 0, 0, 0.2);
+    transition-duration: 0.6s;
+    border-radius: 50%;
+}
+
+.linkedin:hover {
+    box-shadow: 10px 100px 10px rgba(0, 0, 0, 0.2);
+    animation: wiggle 200ms infinite;
+    -webkit-animation: wiggle 200ms infinite;
+}
+
+.github {
+    size: 100px;
+    height: 150px;
+    margin-left: 500px;
+    margin-bottom: 70px;
+    box-shadow: 10px 100px 10px rgba(0, 0, 0, 0.2);
+    transition-duration: 0.6s;
+    border-radius: 50%;
+    overflow: hidden;
+    border-bottom: 1px solid #abc;
+}
+
+.github:hover {
+    box-shadow: 10px 100px 10px rgba(0, 0, 0, 0.2);
+    animation: wiggle 200ms infinite;
+    -webkit-animation: wiggle 200ms infinite;
+}
+
+.github:active {
+    opacity: 0;
+}
+
+@keyframes wiggle {
+    0% {transform: rotateZ(5deg);}
+    50% {transform: rotateZ(-5deg);}
+    100% {transform: rotateZ(5deg);}
+}
+
+@keyframes move {
+}
+
